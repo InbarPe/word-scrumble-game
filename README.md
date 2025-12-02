@@ -42,7 +42,7 @@ The game utilizes file handling with the word_list.txt file, reading it into the
 
 * Across a single run:
 * No word is ever repeated.
-* Even if difficulty is changed mid-run, words do not overlap.
+* Even if the difficulty is changed mid-run, words do not overlap.
 * Pools automatically refill only when absolutely necessary, excluding used words.
 
 ## 📊 Scoreboard / Highscores
@@ -69,7 +69,7 @@ To run the test:
 pytest -v
 ```
 
-For this you may need to install *pytest*:
+For this, you may need to install *pytest*:
 ``` bash
 pip install pytest
 ```
@@ -77,10 +77,10 @@ pip install pytest
 ## 📁 File Structure
 
 📦 word-scramble-game project has:
-* word_scramble_gui.py     # All Tkinter UI code
-* word_scramble_logic.py   # Core game logic
-* test_word_scramble.py    # Tests for the logic module
-* word_list.txt            # Source word list
+* word_scramble_gui.py (All Tkinter UI code)
+* word_scramble_logic.py (Core game logic)
+* test_word_scramble.py (Tests for the logic module)
+* word_list.txt (Source word list)
 
 ! Ensure that all required files are present in the folder.
 
