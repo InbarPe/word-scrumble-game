@@ -76,19 +76,20 @@ pip install pytest
 
 ## 📁 File Structure
 
-📦 word-scramble-game
-│
-├── word_scramble_gui.py     # All Tkinter UI code
-├── word_scramble_logic.py   # Core game logic
-├── test_word_scramble.py    # Tests for the logic module
-└── word_list.txt            # Source word list
+📦 word-scramble-game project has:
+* word_scramble_gui.py     # All Tkinter UI code
+* word_scramble_logic.py   # Core game logic
+* test_word_scramble.py    # Tests for the logic module
+* word_list.txt            # Source word list
 
-! Make sure all required files exist in the folder.
+! Ensure that all required files are present in the folder.
 
 ## ▶️ How to Run the Game
 
 Make sure Python 3.8+ is installed.
+
 Install Tkinter (usually pre-installed).
+
 Run:
 ``` bash
 python word_scramble_gui.py
