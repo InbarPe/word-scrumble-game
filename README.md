@@ -28,9 +28,9 @@ The game utilizes file handling with the word_list.txt file, reading it into the
 
 * Words are randomly scrambled using a shuffle algorithm.
 * Three difficulty levels:
-        - Easy: 2–5 letters
-        - Medium: 6–8 letters
-        - Hard: 9+ letters
+   - Easy: 2–5 letters
+   - Medium: 6–8 letters
+   - Hard: 9+ letters
 * A timer for each round (depends on difficulty).
 * Attempts counter that resets each round.
 * Solve button to reveal the word if stuck.
