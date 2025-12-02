@@ -1,0 +1,10 @@
+apple
+pear
+plum
+banana
+orange
+tomato
+strawberry
+pomegranate
+kiwi
+fig
